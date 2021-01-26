@@ -8,4 +8,4 @@
 * SwiftUI
 
 ## Wireframe
-<img src="./public/Documents/Wireframes/todo1.png">
+![Add Tasks](todo1.png)
