@@ -1,4 +1,5 @@
 # ToDoApp
+##### IOS To-Do App built using SwiftUI and Xcode to learn the basic fundamentals of SwiftUI and XCode programming.
 
 ## User Stories
 ##### Simple, easy to use todo app, to assist managing your tasks through your everyday life.
