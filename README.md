@@ -8,4 +8,4 @@
 * SwiftUI
 
 ## Wireframe
-<img src="./public/Documents/todo1.png">
+<img src="./public/Documents/Wireframes/todo1.png">
